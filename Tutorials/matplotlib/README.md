@@ -1,2 +1,0 @@
-#Matplotlib wiki
-#Kaimen Walters
