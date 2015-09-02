@@ -13,7 +13,8 @@ Python can be used:
   * [PyCharm](https://www.jetbrains.com/pycharm/)
   * Microsoft Visual Studio
   
-### Common Syntax
+
+<!--- ### Common Syntax
 
 Types | Description | Example
 ----------|----------|----------
@@ -21,10 +22,11 @@ str | Character string | 'Python string'
 int | Integer | 123
 float | Floating point number | 3.14
 bool | Boolean | True, False
-list | List of types | ['Python string', 123, 3.14]
+list | List of types | ['Python string', 123, 3.14] -->
 
-* Running Experiments
-* Plotting Results
+### What about this Class?
+* Running Experiments - Thousands of coin-flips, dice-rolls, etc.
+* Plotting Results - Create visuals with [matplotlib](matplotlib.org/)
 
 
 
