@@ -10,12 +10,13 @@ Python can be used:
 
 * In the [command line](https://docs.python.org/3/using/cmdline.html)
 * In an [IDE](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
-  * [PyCharm](https://www.jetbrains.com/pycharm/)
-  * Microsoft Visual Studio
+    * Microsoft Visual Studio  
+    * [PyCharm](https://www.jetbrains.com/pycharm/)
+        * [Smart IDE](https://github.com/kaimen-walters/kaimen-walters.github.io/blob/master/Tutorials/PyCharm.md)
   
 
 ### What about this Class?
-* Running Experiments - Thousands of coin-flips, dice-rolls, etc.
+* Running Experiments - Thousands of coin-flips, dice-rolls, random numbers
 * Plotting Results - Create graphs and plots with [matplotlib](http://matplotlib.org/)
 
 ##### Installing matplotlib
