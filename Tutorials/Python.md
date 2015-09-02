@@ -14,20 +14,13 @@ Python can be used:
   * Microsoft Visual Studio
   
 
-<!--- ### Common Syntax
-
-Types | Description | Example
-----------|----------|----------
-str | Character string | 'Python string'
-int | Integer | 123
-float | Floating point number | 3.14
-bool | Boolean | True, False
-list | List of types | ['Python string', 123, 3.14] -->
-
 ### What about this Class?
 * Running Experiments - Thousands of coin-flips, dice-rolls, etc.
-* Plotting Results - Create visuals with [matplotlib](matplotlib.org/)
+* Plotting Results - Create graphs and plots with [matplotlib](http://matplotlib.org/)
 
+##### Installing matplotlib
+
+* I did it [my way](https://github.com/kaimen-walters/kaimen-walters.github.io/blob/master/Tutorials/matplotlib.md)
 
 
 Sources:
