@@ -12,7 +12,6 @@ Python can be used:
 * In an [IDE](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
     * Microsoft Visual Studio  
     * [PyCharm](https://www.jetbrains.com/pycharm/)
-        * [Smart IDE](https://github.com/kaimen-walters/kaimen-walters.github.io/blob/master/Tutorials/PyCharm.md)
   
 
 ### What about this Class?
