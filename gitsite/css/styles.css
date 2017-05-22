@@ -1,0 +1,81 @@
+/* Color  Palette
+#500000 - Aggie Maroon
+#555B6E - Coral (dark bluish gray)
+#CAE5FF - Periwinkle Blue (boys)
+#1B998B - Jungle Green
+#064789 - Dark Cerulean
+*/
+
+/* Fonts
+font-family: 'Russo One', sans-serif;
+font-family: 'Audiowide', cursive;
+font-family: 'Economica', sans-serif;
+*/
+
+/* Global styles
+----------------*/
+/* Box model fix */
+html {
+	box-sizing: border-box;
+}
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
+body {
+	font-family: 'Oswald', sans-serif;
+	margin: 0;	
+}
+h1, h2 {
+	font-family: 'Audiowide', cursive;
+	max-width: 950px;
+	margin: 0 auto;
+}
+
+.content-wrap{
+	max-width: 950px;
+	margin: 0 auto;
+}
+
+/* Header and Footer
+----------------------*/
+header, footer {
+	background: #500000;
+	color: #CAE5FF;
+	font-family: 'Audiowide', sans-serif;
+}
+
+/* Header
+----------------------*/
+.profile-img {
+	border-radius: 50%;
+}
+
+/* Footer
+----------------------*/
+footer {
+	text-align: center;
+}
+
+footer a{
+	color: #064789;
+}
+
+img{
+	padding: 10px 85px;
+}
+
+.contact-info  a {
+	margin: 10px;
+	padding: 15px;
+	display: inline-block;
+}
+/* Work Experience
+----------------------*/
+main {
+
+	
+}
+
+/* Education
+----------------------*/
